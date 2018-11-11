@@ -1,0 +1,11 @@
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.csprojResolveAssemblyReference.cache
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.csproj.CoreCompileInputs.cache
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.AssemblyInfoInputs.cache
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.AssemblyInfo.cs
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\bin\Debug\netcoreapp2.0\Clase_abm.deps.json
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\bin\Debug\netcoreapp2.0\Clase_abm.runtimeconfig.json
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\bin\Debug\netcoreapp2.0\Clase_abm.runtimeconfig.dev.json
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\bin\Debug\netcoreapp2.0\Clase_abm.dll
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\bin\Debug\netcoreapp2.0\Clase_abm.pdb
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.dll
+C:\Users\Lagash\Desktop\Clase ABM_resuelto\Clase_abm\Clase_abm\obj\Debug\netcoreapp2.0\Clase_abm.pdb
